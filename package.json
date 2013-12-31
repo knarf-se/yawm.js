@@ -1,0 +1,8 @@
+{	"name": "yawm.js",
+	"description": "Yet Another Window Manager (in JavaScript)",
+	"main": "yawm.js",
+	"dependencies": {
+		"x11": "~0.7.0"
+	},
+	"author": "Frank M. Eriksson"
+}
